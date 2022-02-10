@@ -37,7 +37,7 @@ resposta: enviar ou trazer informações do repositorio remoto para o repositori
 oque é branch?
 
 
-resposta: ramificação de um repostiorio
+resposta: ramificação de um repositiorio
 
 
 
