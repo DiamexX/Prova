@@ -19,6 +19,10 @@ resposta: é o diretorio onde os seus arquivos do seu projeto ficam armazenados
 
 
 4: questão
+oque é marge?
+
+
+resposta: junção de branchs
 
 
 
