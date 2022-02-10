@@ -11,7 +11,10 @@ resposta:Empacotamento de um grupo de alterações
 
 
 3: questão
+oque é um repositorio?
 
+
+resposta: é o diretorio onde os seus arquivos do seu projeto ficam armazenados
 
 
 
