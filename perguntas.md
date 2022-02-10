@@ -28,3 +28,6 @@ resposta: junção de branchs
 
 
 5: questão
+oque é pull?
+
+resposta: enviar ou trazer informações do repositorio remoto para o repositorio local
