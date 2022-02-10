@@ -31,3 +31,26 @@ resposta: junção de branchs
 oque é pull?
 
 resposta: enviar ou trazer informações do repositorio remoto para o repositorio local
+
+
+6: questão
+oque é branch?
+
+
+resposta: ramificação de um repostiorio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
